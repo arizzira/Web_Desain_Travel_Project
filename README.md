@@ -189,7 +189,7 @@ Web_Desain_Travel_Project/
 
 If you have any questions or need help getting started, please:
 - Open an [issue](https://github.com/arizzira/Web_Desain_Travel_Project/issues)
-- Contact via email: [your-email@example.com]
+- Contact via email: [arizgg6@gmail.com](arizgg6@gmail.com)
 
 ---
 
