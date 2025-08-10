@@ -3,7 +3,6 @@
 A comprehensive travel agency website with an integrated **Admin Dashboard** for managing travel services, customer bookings, and inquiries. Built with modern web technologies for optimal performance and user experience.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/arizzira/Web_Desain_Travel_Project)](https://github.com/arizzira/Web_Desain_Travel_Project)
-[![GitHub repo size](https://img.shields.io/github/repo-size/arizzira/Web_Desain_Travel_Project)](https://github.com/arizzira/Web_Desain_Travel_Project)
 [![GitHub](https://img.shields.io/github/license/arizzira/Web_Desain_Travel_Project)](https://github.com/arizzira/Web_Desain_Travel_Project/blob/main/LICENSE)
 
 ## ✨ Features
